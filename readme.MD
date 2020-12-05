@@ -17,6 +17,7 @@ The Avoidance is a tale of an emoticon boy who is trying to save his village by 
 To install the application you need the following installed in your computer
  - Spark Ar
  - Spark Ar Player(Android/IOS)
+ - You can also test the application live on instagram via this link https://www.instagram.com/ar/688313505390672/?ch=NWY4ZTUyYjc3Y2MxOWZhZTQ2ZmY1MTFhMTBhNjZmMDM%3D
 
   
 
